@@ -1,0 +1,6 @@
+NYC 68
+Honolulu 81
+Seattle 62
+Denver 73
+LA 78
+Miami 88

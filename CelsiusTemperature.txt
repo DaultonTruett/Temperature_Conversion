@@ -1,0 +1,6 @@
+NYC 20
+Honolulu 27.2222
+Seattle 16.6667
+Denver 22.7778
+LA 25.5556
+Miami 31.1111
